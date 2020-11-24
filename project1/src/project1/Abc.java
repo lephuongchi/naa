@@ -4,4 +4,5 @@ public class Abc {
   int a;
   int ss;
   String jav;
+  String dit;
 }
